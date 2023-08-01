@@ -1,4 +1,4 @@
-# Install & setup jupyter notebook
+#Install & setup jupyter notebook
 
 > Run the below command to spin up jupyter notebook docker container
 
