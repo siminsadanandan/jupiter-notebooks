@@ -2,7 +2,7 @@
 
 > Run the below command to spin up jupyter notebook docker container
 
-`docker run -p 8888:8888 -v $(pwd):/home/ubuntu/work jupyter/tensorflow-notebook`
+`docker run -p 8888:8888 -v $(pwd):/home/jovyan/work jupyter/tensorflow-notebook`
 
 > Check the log file for the login url, seen with a token (example below)
 
